@@ -34,5 +34,5 @@ The dataset used in this project is sourced from https://www.kaggle.com/datasets
 ## How to Run the Project
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/nirvani-nj/Road-Accident-Analysis/new/main.git
+git clone https://github.com/nirvani-nj/Road-Accident-Analysis.git
 cd Road-Accident-Analysis
